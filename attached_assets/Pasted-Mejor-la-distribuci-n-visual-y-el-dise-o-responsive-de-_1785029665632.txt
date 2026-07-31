@@ -1,0 +1,93 @@
+Mejorá la distribución visual y el diseño responsive de la aplicación actual "Llorería".
+
+IMPORTANTE:
+No agregues nuevas funcionalidades.
+No cambies la lógica.
+Trabajá únicamente en layout, organización visual y adaptación a dispositivos móviles.
+
+OBJETIVO:
+La página será utilizada principalmente desde celulares.
+Debe sentirse como una experiencia móvil creada específicamente para pantalla táctil, no como una web de escritorio reducida.
+
+CAMBIOS DE DISEÑO:
+
+1. ENFOQUE MOBILE FIRST:
+- Diseñar primero para pantallas pequeñas (320px-430px de ancho).
+- Luego adaptar para tablets y escritorio.
+- Evitar cualquier elemento que genere scroll horizontal.
+
+2. ESTRUCTURA DE PANTALLA:
+
+Crear una jerarquía clara:
+
+PARTE SUPERIOR:
+- Título "Llorería"
+- Subtítulo divertido
+- Pequeña animación de lluvia alrededor
+
+CENTRO:
+- Caja principal de interacción
+- Textarea grande y cómodo para escribir con el pulgar
+- Slider emocional debajo
+- Botón "Llorar" destacado
+
+PARTE INFERIOR:
+- Área donde aparecen los lloros
+- Debe sentirse como un océano o acumulación de lágrimas
+
+3. CONTENEDOR PRINCIPAL:
+En móvil:
+- Usar casi todo el ancho disponible
+- Márgenes laterales pequeños
+- Padding cómodo
+- Bordes redondeados grandes
+
+En escritorio:
+- Mantener un diseño centrado con ancho máximo
+
+4. BOTONES E INTERACCIONES:
+Optimizar para touch:
+- Botón "Llorar" grande
+- Altura mínima cómoda para tocar con dedo
+- Separación suficiente entre elementos
+- Evitar elementos pequeños
+
+5. TEXTAREA:
+Mejorar:
+- Altura adaptable
+- Texto grande y legible
+- Placeholder visible
+- Animación cuando recibe foco
+
+6. SLIDER:
+Adaptarlo a móvil:
+- Más ancho
+- Fácil de mover con el dedo
+- Indicadores visibles
+- Emojis grandes en los extremos
+
+7. LLOROS:
+En celular:
+- Las lágrimas no deben tapar la interfaz principal
+- Deben aparecer alrededor o debajo
+- Ajustar tamaños según pantalla
+- Mantener animaciones fluidas
+
+8. RESPONSIVE:
+Agregar breakpoints claros:
+- móvil pequeño
+- móvil grande
+- tablet
+- escritorio
+
+9. EXPERIENCIA GENERAL:
+Debe sentirse como una app móvil divertida:
+- elementos grandes
+- navegación intuitiva
+- pocas cosas al mismo tiempo
+- mucho impacto visual
+
+IMPORTANTE:
+Mantener la estética exagerada de lluvia, lágrimas y humor triste.
+No simplificar el diseño, hacerlo más usable.
+No eliminar animaciones existentes.

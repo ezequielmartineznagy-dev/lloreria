@@ -1,0 +1,104 @@
+Quiero que hagas una mejora final extrema de la experiencia visual de "Llorería".
+
+Este es un proyecto experimental y divertido. No debe parecer una aplicación normal. Quiero que parezca un juguete web interactivo antiguo llevado al máximo nivel moderno.
+
+IMPORTANTE:
+- Mantener todas las funcionalidades actuales funcionando.
+- No eliminar lógica existente.
+- No agregar backend ni nuevas funcionalidades.
+- Concentrarse en diseño, animaciones, personalidad y experiencia de usuario.
+
+OBJETIVO:
+Transformar Llorería en una experiencia exageradamente visual:
+"un océano digital de tristeza donde la gente entra a llorar y se divierte".
+
+DIRECCIÓN ARTÍSTICA:
+
+1. ATMÓSFERA GENERAL:
+Crear una escena completa:
+- tormenta nocturna
+- lluvia en múltiples capas
+- niebla animada
+- reflejos de agua
+- sensación de profundidad
+- pequeñas animaciones constantes
+
+Debe sentirse como estar dentro de una nube gigante de lágrimas.
+
+2. ELEMENTOS VIVOS:
+Agregar detalles sorpresa:
+- pequeñas gotas con personalidad
+- burbujas flotando
+- partículas de agua
+- pequeños elementos tristes flotando (pañuelos, emojis, corazones rotos)
+- movimientos aleatorios suaves
+
+La página nunca debe sentirse estática.
+
+3. TÍTULO "LLORERÍA":
+Convertirlo en el protagonista:
+- enorme
+- dramático
+- brillante
+- animación de respiración
+- efecto líquido
+- sensación de logo de videojuego
+
+Agregar humor visual alrededor del título.
+
+4. PANEL PRINCIPAL:
+Transformarlo en una "máquina de llorar":
+- vidrio líquido
+- bordes con gotas
+- iluminación dinámica
+- sensación de estar flotando sobre agua
+
+5. BOTÓN "LLORAR":
+Debe sentirse como un botón de videojuego:
+- animación constante muy sutil
+- reacción exagerada al hover
+- efecto de presión al tocar
+- brillo especial
+
+Que invite a presionarlo.
+
+6. SLIDER DE EMOCIÓN:
+Convertirlo en una barra dramática:
+- visual de nivel de tragedia
+- cambios visuales según aumenta la intensidad
+- que pasar hacia 🧅 sea una experiencia
+
+7. EXPERIENCIA MOBILE:
+Prioridad absoluta:
+- todo debe verse increíble en celular
+- elementos grandes
+- animaciones fluidas
+- interacción cómoda con dedo
+- evitar saturar la pantalla
+
+8. MICRODETALLES:
+Agregar personalidad:
+- textos pequeños graciosos
+- mensajes escondidos
+- pequeños efectos al tocar elementos
+- sensación de descubrimiento
+
+9. ESTILO:
+Combinar:
+- tristeza exagerada
+- humor absurdo
+- estética meme
+- nostalgia de páginas web interactivas antiguas
+
+NO BUSCO:
+- una página elegante corporativa
+- una app seria
+- minimalismo
+
+BUSCO:
+- una experiencia absurda, divertida y memorable.
+
+Antes de terminar:
+- revisar que no haya errores visuales
+- asegurar que siga funcionando correctamente
+- optimizar animaciones para móvil.

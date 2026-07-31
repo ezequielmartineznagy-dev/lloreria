@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Llorería</title>
+  </head>
+  <body>
+    <!-- Rain -->
+    <div class="rain" id="rain"></div>
+
+    <div class="scene">
+      <div class="card">
+        <h1 class="title">Llorería 💧</h1>
+        <p class="subtitle">Quejas aceptadas las 24 hs</p>
+
+        <!-- Textarea -->
+        <div class="queja-wrap">
+          <textarea
+            id="queja"
+            maxlength="120"
+            placeholder="¿De qué te querés quejar hoy?"
+            spellcheck="false"
+          ></textarea>
+          <span class="char-count" id="charCount">0 / 120</span>
+        </div>
+
+        <!-- Slider -->
+        <div class="slider-section">
+          <div class="slider-label" id="sliderLabel">meh</div>
+          <div class="slider-row">
+            <span class="slider-emoji" id="emojiLeft">😢</span>
+            <input type="range" id="dolor" min="0" max="100" value="15" />
+            <span class="slider-emoji" id="emojiRight">🧅</span>
+          </div>
+        </div>
+
+        <!-- Botón -->
+        <button class="btn-llorar" id="btnLlorar">Llorar</button>
+
+        <div class="reaction" id="reaction"></div>
+
+        <!-- Lloros acumulados -->
+        <div class="lloros-area" id="llorosArea">
+          <div class="lloros-row" id="llorosRow">
+            <div class="lloros-empty" id="llorosEmpty">Acá van a vivir tus lloros. 💧</div>
+          </div>
+        </div>
+
+        <!-- Psicólogo -->
+        <div class="psicologo-wrap">
+          <div class="psi-col">
+            <div class="psicologo-char" id="psicologoChar">
+              <div class="psi-face">
+                <div class="psi-eyes"><span></span><span></span></div>
+                <div class="psi-mouth"></div>
+              </div>
+            </div>
+            <p class="psi-label">El Psicólogo<br>de la Llorería</p>
+          </div>
+          <div class="psicologo-bubble" id="psicologoBubble">
+            <span id="psicologoText"></span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>
